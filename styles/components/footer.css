@@ -1,0 +1,14 @@
+.footer {
+  padding: 25px 0;
+}
+
+.footer__logo {
+  margin-right: 79px;
+}
+
+.footer-address__geo {
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 20px;
+  color: #9A9A9A;
+}

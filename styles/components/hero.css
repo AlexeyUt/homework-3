@@ -1,0 +1,32 @@
+.hero__title {
+  margin-top: 120px;
+}
+
+.hero__subtitle {
+  margin-top: 27px;
+}
+
+.hero__button {
+  margin-top: 33px;
+  margin-bottom: 246px;
+  width: 168px;
+  height: 55px;
+  border: 1px solid #2B2B2B;
+  box-sizing: border-box;
+  border-radius: 35px;
+  padding: 18px 40px;
+  background-color: #2B2B2B;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 19px;
+  text-transform: uppercase;
+  color: #fff;
+  cursor: pointer;
+  transition: .3;
+}
+
+.hero__button:hover {
+  border: 1px solid #F5170E;
+  background-color: #F5170E;
+  color: #fff;
+}

@@ -1,0 +1,22 @@
+.site-nav {
+  display: inline-block;
+  position: relative;
+  top: -13px;
+}
+
+.site-nav__link {
+  color: #fff;
+  text-decoration: none;
+}
+
+.site-nav__link:hover {
+  color: #DA0100;
+  cursor: pointer;
+  transition: .3;
+}
+
+
+.site-nav__item {
+  display: inline-block;
+  margin-right: 54px;
+}

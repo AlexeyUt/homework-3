@@ -1,0 +1,11 @@
+.header {
+  padding: 25px 0;
+}
+
+.header__content:last-child {
+  margin-right: 0;
+}
+
+.header__logo {
+  margin-right: 79px;
+}
